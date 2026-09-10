@@ -4,6 +4,8 @@
 
 RU/EN
 
+<img width="1710" height="1288" alt="audiototext" src="https://github.com/user-attachments/assets/e45de437-ee37-4394-9c56-e1ec4dbd2b29" />
+
 ---
 
 ## 🚀 Быстрый старт (Инструкция по использованию)
