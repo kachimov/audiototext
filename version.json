@@ -1,0 +1,10 @@
+{
+    "version": 1,
+    "min_launcher_version": "1.5.0",
+    "release_date": "2026-09-10",
+    "changelog": {
+        "ru": "Добавлена мультиязычность интерфейса (русский и английский), обновлен дизайн диалога поддержки с поддержкой криптовалют и QR-кодов.",
+        "en": "Added interface localization (Russian and English), updated the support dialog design with crypto wallets and QR codes support."
+    },
+    "critical": false
+}
