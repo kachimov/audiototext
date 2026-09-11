@@ -30,11 +30,11 @@ RU/EN
 
 | Название модели | Размер файла | Требования к VRAM / RAM | Описание и прямая ссылка на скачивание |
 | :--- | :--- | :--- | :--- |
-| **Tiny** (`tiny.pt`) | ~75 МБ | ~1 ГБ | Сверхбыстрая модель для тестов и слабых ПК / CPU.<br>👉 [Скачать (Hugging Face)](https://openaipublic.azureedge.net/main/whisper/models/65147644a518d12f04e32d6f3b26facc3f8dd46e5390956a9424a650c0ce22b9/tiny.pt) |
-| **Base** (`base.pt`) | ~142 МБ | ~1.5 ГБ | Быстрая модель для чистого звука и базовых задач.<br>👉 [Скачать (Hugging Face)](https://openaipublic.azureedge.net/main/whisper/models/ed3a0b6b1c0edf879ad9b11b1af5a0e6ab5db9205f891f668f8b0e6c6326e34e/base.pt) |
-| **Small** (`small.pt`) | ~483 МБ | ~2 ГБ | Баланс между скоростью и качеством (оптимально для CPU).<br>👉 [Скачать (Hugging Face)](https://openaipublic.azureedge.net/main/whisper/models/9ecf779972d90ba49c06d968637d720dd632c55bbf19d441fb42bf17a411e794/small.pt) |
-| **Medium** (`medium.pt`) | ~1.5 ГБ | ~5 ГБ | Высокая точность сложной терминологии.<br>👉 [Скачать (Hugging Face)](https://openaipublic.azureedge.net/main/whisper/models/345ae4da62f9b3d59415adc60127b97c714f32e89e936602e85993674d08dcb1/medium.pt) |
-| **Large v3** (`large-v3.pt`) | ~2.9 ГБ | ~10 ГБ | Максимальная точность распознавания (рекомендуется для русского языка на GPU NVIDIA).<br>👉 [Скачать (Hugging Face)](https://openaipublic.azureedge.net/main/whisper/models/e4b87e7e0bf463eb8e6956e646f1e277e901512310def2c24bf0e11bd3c28e9a/large.pt) |
+| **Tiny** (`tiny.pt`) | ~75 МБ | ~1 ГБ | Сверхбыстрая модель для тестов и слабых ПК / CPU.<br>👉 [Скачать (openai)](https://openaipublic.azureedge.net/main/whisper/models/65147644a518d12f04e32d6f3b26facc3f8dd46e5390956a9424a650c0ce22b9/tiny.pt) |
+| **Base** (`base.pt`) | ~142 МБ | ~1.5 ГБ | Быстрая модель для чистого звука и базовых задач.<br>👉 [Скачать (openai)](https://openaipublic.azureedge.net/main/whisper/models/ed3a0b6b1c0edf879ad9b11b1af5a0e6ab5db9205f891f668f8b0e6c6326e34e/base.pt) |
+| **Small** (`small.pt`) | ~483 МБ | ~2 ГБ | Баланс между скоростью и качеством (оптимально для CPU).<br>👉 [Скачать (openai)](https://openaipublic.azureedge.net/main/whisper/models/9ecf779972d90ba49c06d968637d720dd632c55bbf19d441fb42bf17a411e794/small.pt) |
+| **Medium** (`medium.pt`) | ~1.5 ГБ | ~5 ГБ | Высокая точность сложной терминологии.<br>👉 [Скачать (openai)](https://openaipublic.azureedge.net/main/whisper/models/345ae4da62f9b3d59415adc60127b97c714f32e89e936602e85993674d08dcb1/medium.pt) |
+| **Large v3** (`large-v3.pt`) | ~2.9 ГБ | ~10 ГБ | Максимальная точность распознавания (рекомендуется для русского языка на GPU NVIDIA).<br>👉 [Скачать (openai)](https://openaipublic.azureedge.net/main/whisper/models/e4b87e7e0bf463eb8e6956e646f1e277e901512310def2c24bf0e11bd3c28e9a/large.pt) |
 
    * *Если выбранная модель отсутствует на диске, программа предложит прямую ссылку на скачивание.*
    * *Файлы весов необходимо сохранять в папку `models/` рядом с программой.*
